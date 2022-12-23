@@ -1,4 +1,4 @@
-# Memes-Generator
+# Meme-Generator
 
 The meme generator is my first project using React.js. It was created as part of Scrimba's Frontend Developer Career Path.
 
